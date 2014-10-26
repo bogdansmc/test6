@@ -1,0 +1,5 @@
+<Alloy>
+	<Window class="container" id="win">
+		<Button id="myLoginButton">Facebook login</Button>
+	</Window>
+</Alloy>
